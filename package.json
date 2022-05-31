@@ -1,0 +1,15 @@
+{
+  "name": "crypto-study",
+  "version": "0.0.1",
+  "description": "A study project to better understand crypto",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "study"
+  ],
+  "author": "Filipe Lima",
+  "license": "MIT"
+}
